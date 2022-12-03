@@ -30,6 +30,16 @@ Estimate of time needed to complete: 50 minutes
 
 Start time: 4:30
 
-Finish time: 5:10
+Finish time: 5:08
 
-Actual time needed to complete:  40 minutes
+Actual time needed to complete: 38 minutes
+
+Number and name of feature: 4. Skills and Experience Sections
+
+Estimate of time needed to complete: 50 minutes
+
+Start time: 5:10
+
+Finish time: 5:30
+
+Actual time needed to complete: 20 minutes
