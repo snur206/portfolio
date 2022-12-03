@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Sharmarke Nur. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 My name is Sharmarke Nur. I am a Full-Stack Software Developer with knowledge of the languages HTML, CSS, and Javascript using VS Code. I decided to learn Software Development due to not being fulfilled with where I was at and wanted a change of direction for my life. I have some family who work in the field of tech in IT and felt that was the direction I wanted to go.  An ideal environment I'd utilize my skills is in a team setting. I say that because I feel like I thrive in those settings due to my previous experiences in working apart of a team. One example is a final video project I have done that did really well, generating over 400 thousand views. Being apart of a team, communication and listening to others ideas are vital to being successful in team environment, which is why I feel that being in a team is an environment for me.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -42,7 +42,7 @@
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/snur206",
         "technologies": [
           {
             "class": "devicon-react-original",

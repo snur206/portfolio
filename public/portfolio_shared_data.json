@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Sharmarke Nur",
-      "titles": [ "Software Developer" ],
-      "social": [
+      "titles": [ "Full-Stack Software Developer graduate from Code Fellows. Work well in a team environment and can reach deadlines." ],
+      "social": [ 
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/snur206",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/sharmarke-nur/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.jpeg"
     },
     "skills": {
       "icons": [
