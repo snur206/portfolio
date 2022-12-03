@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: rgb(193, 49, 49);
+	background-color: rgb(254, 0, 0);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -86,7 +86,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #ffb803;
+	background-color: #887f6a;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: linear-gradient(white, black, red);
 	overflow: hidden;
 }
 
@@ -231,7 +231,7 @@ header h1 {
 }
 
 #resume {
-	background: #ffb701;
+	background: rgb(8, 65, 164)
 }
 
 .experience-icon {
@@ -245,8 +245,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
-	color: white;
+	background-color: #cf9b0c !important;
+	color: rgb(138, 120, 120);
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -256,7 +256,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #000000 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -276,7 +276,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: rgb(0, 0, 0);
 }
 
 .bars {
@@ -353,7 +353,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #c3b8ac;
 	padding-bottom: 5%;
 }
 
@@ -414,7 +414,6 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
@@ -437,4 +436,8 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+
+.footer {
+	background-image: url('../public/images/rain-bg.jpg');
 }

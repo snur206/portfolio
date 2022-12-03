@@ -81,37 +81,25 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Imagine Institute",
+        "title": "Substitute",
+        "years": "03.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Child Care"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Maka Mini Market",
+        "title": "Volunteer/Assistant",
+        "years": "08.2015 - 09.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Retail"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Google SpreadSheet",
+          "Google Docs"
         ]
       }
     ]

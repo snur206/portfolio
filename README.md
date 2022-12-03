@@ -43,3 +43,13 @@ Start time: 5:10
 Finish time: 5:30
 
 Actual time needed to complete: 20 minutes
+
+Number and name of feature: 5. Personalize
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 5:30
+
+Finish time: 6:20
+
+Actual time needed to complete: 50 minutes
